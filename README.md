@@ -35,3 +35,7 @@ poi建议查询
 
 
 **请注意申请apikey**
+
+此demo中代码从[百度Android地图sdk开发demo](http://lbsyun.baidu.com/sdk/download?selected=mapsdk_basicmap,mapsdk_searchfunction,mapsdk_lbscloudsearch,mapsdk_calculationtool,mapsdk_radar)整理而来
+
+
